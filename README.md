@@ -9,6 +9,3 @@ placeholder
 
 ## How to run
 this is how you run
-
-## Our favorite games
-animal crossing
