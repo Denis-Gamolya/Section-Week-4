@@ -11,3 +11,5 @@ placeholder
 this is how you run
 
 ## Our favorite games
+Celeste
+Apex Legends
